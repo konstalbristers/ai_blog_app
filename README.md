@@ -2,6 +2,9 @@ Project Description
 
 this is a laravel and mysql web app that makes blog posts with ai you just type a title and it writes a 3 paragraph blog for you and saves it in the database
 
+I will submit the video as it is because i lost 2 hours trying to push the repo to github because of the file size even with lfs it wasnt working somehow so im just going to upload it directly
+
+
 Features
 
 you can make ai blogs save them in mysql and see them on the main page it has form validation some error handling and uses laravel http client to talk to openai api
